@@ -1,0 +1,51 @@
+*{margin:0;padding:0}
+
+body{width: 1920px; height: 1080px;}
+
+#he1{width: 25%; height: 270px;
+    background-color: #7FFF00; float: left;}
+	
+#he2{width: 25%; height: 270px;
+    background-color: #0000FF; float: left;}
+	
+#he3{width: 25%; height: 270px;
+    background-color: #0665FF; float: left;}
+	
+#he4{width: 25%; height: 270px;
+    background-color: #13423F; float: right;}
+
+#na1{width: 25%; height: 270px;
+    background-color: #000000; float: left;}
+
+#na2{width: 25%; height: 270px;
+    background-color: #FF7F50; float: left;}
+
+#na3{width: 25%; height: 270px;
+    background-color: #9932CC; float: left;}
+	
+#na4{width: 25%; height: 270px;
+    background-color: #FF7FFF; float: right;}
+
+#ma1{width: 25%; height: 270px;
+    background-color: #FF0000; float: left;}
+
+#ma2{width: 25%; height: 270px;
+background-color: #00FF00; float: left;}
+
+#ma3{width: 25%; height: 270px;
+background-color: #14477F; float: left;}
+
+#ma4{width: 25%; height: 270px;
+background-color: #00FFF0; float: right;}
+
+#fo1{width: 25%; height: 270px;
+    background-color: #00FF7F; float: left;}
+	
+#fo2{width: 25%; height: 270px;
+    background-color: #800080; float: left;}
+	
+#fo3{width: 25%; height: 270px;
+background-color: #CD853F; float: left;}
+
+#fo4{width: 25%; height: 270px;
+    background-color: #802352; float: left;}
